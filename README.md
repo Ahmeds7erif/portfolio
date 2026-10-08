@@ -1,0 +1,1 @@
+Ahmed Sherif Portfolio — open index.html in a browser. All 18 project detail pages are in projects/. Portrait and project illustrations in assets/. Downloadable CV: Ahmed_Sherif_CV.pdf. All project visuals are illustrative unless explicitly described otherwise. Deploy entire folder to GitHub Pages or Vercel.
